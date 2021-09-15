@@ -17,6 +17,6 @@ I used the 'print' command:
 print('hello world')
 ```
 
-[Homepage]()
+
 
 ![screenshot](picture.PNG)
