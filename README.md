@@ -19,4 +19,4 @@ print('hello world')
 
 [Homepage]()
 
-![screenshot](picture.png)
+![screenshot](picture.PNG)
