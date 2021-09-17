@@ -1,6 +1,6 @@
 # Hello World Demo
 
-Tis is my **hello world demo** software
+This is my **hello world demo** software
 
 ## Tools
 
